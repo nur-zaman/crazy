@@ -28,7 +28,7 @@ int main() {
         "🔒",
         "🏥",
         "🐀",
-        "🐀"
+        "🤡"
     };
 
     int numMessages = sizeof(messages) / sizeof(messages[0]);
@@ -38,6 +38,7 @@ int main() {
         for (int i = 0; i < numMessages; i++) {
             printWithTypewriterEffect(messages[i], emojis[i], (i == 0) ? 2 : 1);
         }
+        printf("\n\n")
     }
 
     return 0;
