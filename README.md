@@ -1,4 +1,4 @@
-# The [crazy](https://nur-zaman.github.io/crazy/) ?
+# [crazy](https://nur-zaman.github.io/crazy/) ?
 
 Once upon a time, in a world that was slightly off-kilter, I found myself on a path that led to madness. 😵 They say it's a thin line between brilliance and insanity, but I was about to teeter on the edge of that line, and it was a wild ride.
 
