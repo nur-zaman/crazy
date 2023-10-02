@@ -38,7 +38,7 @@ int main() {
         for (int i = 0; i < numMessages; i++) {
             printWithTypewriterEffect(messages[i], emojis[i], (i == 0) ? 2 : 1);
         }
-        printf("\n\n")
+        printf("\n\n");
     }
 
     return 0;
